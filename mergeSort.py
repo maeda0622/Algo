@@ -47,6 +47,6 @@ def merge(left, right):
     return merged
 
 
-a = [6,8,7,4,9,7,10,3,5,3,7,8,124]
+a = [9, 6, 8, 4, 5, 2, 3, 1]
 print(merge_sort(a))
 #merge_sort(a)
